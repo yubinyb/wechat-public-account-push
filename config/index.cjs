@@ -24,7 +24,6 @@ const USER_CONFIG = {
       id: 'oeOCc6HpzAOgvE3i2Telb9BpCt9o',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '8pWTE0TkidK6vl6d0eU9c4MplobetH3TIstyX7jIx1M',
-      ],
     },
   ],
 
